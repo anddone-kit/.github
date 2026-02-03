@@ -20,9 +20,6 @@ AndDone is purpose-built to simplify insurance payments.
 
 ---
 
-<!-- SECTION CARD -->
-<div style="border:1px solid rgba(125,125,125,0.35); border-radius:12px; padding:16px;">
-
 ## 🧰 Overview
 
 AndDone is purpose-built to simplify insurance payments.  
@@ -30,12 +27,7 @@ Our APIs, SDKs, and sample apps help you move faster, reduce manual work, and su
 
 We created this GitHub to help developers get started quickly, test with confidence, and integrate with clarity.
 
-</div>
-
-<br />
-
-<!-- SECTION CARD -->
-<div style="border:1px solid rgba(125,125,125,0.35); border-radius:12px; padding:16px;">
+---
 
 ## 🔗 Quick Links
 
@@ -54,12 +46,7 @@ We created this GitHub to help developers get started quickly, test with confide
   </tr>
 </table>
 
-</div>
-
-<br />
-
-<!-- SECTION CARD -->
-<div style="border:1px solid rgba(125,125,125,0.35); border-radius:12px; padding:16px;">
+---
 
 ## 📦 Client Libraries
 
@@ -67,44 +54,41 @@ We created this GitHub to help developers get started quickly, test with confide
 
 Use our prebuilt SDKs to get up and running quickly.
 
-<table>
-  <tr><td><small>✅</small> Easy installation</td></tr>
-  <tr><td><small>✅</small> Auth and config setup</td></tr>
-  <tr><td><small>✅</small> Sample payloads</td></tr>
-  <tr><td><small>✅</small> Live API support</td></tr>
-  <tr><td><small>✅</small> Code you can copy, paste, and run</td></tr>
-</table>
-
-<br />
-
+<div align="center">
 <table>
   <tr>
-    <td><b>Available libraries:</b></td>
+    <td><small>✅</small> Easy installation</td>
+    <td><small>✅</small> Auth and config setup</td>
+    <td><small>✅</small> Sample payloads</td>
   </tr>
   <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Node.js</td>
-          <td>Python</td>
-          <td>.NET</td>
-        </tr>
-        <tr>
-          <td>Go</td>
-          <td>Ruby</td>
-          <td>PHP (coming soon)</td>
-        </tr>
-      </table>
-    </td>
+    <td><small>✅</small> Live API support</td>
+    <td><small>✅</small> Code you can copy, paste, and run</td>
+    <td>&nbsp;</td>
   </tr>
 </table>
-
 </div>
 
 <br />
 
-<!-- SECTION CARD -->
-<div style="border:1px solid rgba(125,125,125,0.35); border-radius:12px; padding:16px;">
+<p><b>Available libraries:</b></p>
+
+<div align="center">
+<table>
+  <tr>
+    <td>Node.js</td>
+    <td>Python</td>
+    <td>.NET</td>
+  </tr>
+  <tr>
+    <td>Go</td>
+    <td>Ruby</td>
+    <td>PHP (coming soon)</td>
+  </tr>
+</table>
+</div>
+
+---
 
 ## 🧪 AndDone Frameworks
 
@@ -112,38 +96,34 @@ Use our prebuilt SDKs to get up and running quickly.
 
 Try a working integration in minutes. Our sample apps include:
 
-<table>
-  <tr><td><small>✅</small> Prebuilt UI</td></tr>
-  <tr><td><small>✅</small> Config file for your credentials</td></tr>
-  <tr><td><small>✅</small> Ready-to-run payloads</td></tr>
-  <tr><td><small>✅</small> Live response testing</td></tr>
-</table>
-
-<br />
-
+<div align="center">
 <table>
   <tr>
-    <td><b>Current frameworks:</b></td>
+    <td><small>✅</small> Prebuilt UI</td>
+    <td><small>✅</small> Config file for your credentials</td>
   </tr>
   <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Python</td>
-          <td>.NET</td>
-          <td>PHP (coming soon)</td>
-        </tr>
-      </table>
-    </td>
+    <td><small>✅</small> Ready-to-run payloads</td>
+    <td><small>✅</small> Live response testing</td>
   </tr>
 </table>
-
 </div>
 
 <br />
 
-<!-- SECTION CARD -->
-<div style="border:1px solid rgba(125,125,125,0.35); border-radius:12px; padding:16px;">
+<p><b>Current frameworks:</b></p>
+
+<div align="center">
+<table>
+  <tr>
+    <td>Python</td>
+    <td>.NET</td>
+    <td>PHP (coming soon)</td>
+  </tr>
+</table>
+</div>
+
+---
 
 ## 🧭 API Explorer
 
@@ -151,28 +131,27 @@ Try a working integration in minutes. Our sample apps include:
 
 The AndDone API Explorer helps you explore endpoints, build payloads, and generate code — all in one place.
 
-<table>
-  <tr><td><small>✅</small> Search across all endpoints</td></tr>
-  <tr><td><small>✅</small> Build sample payloads with valid JSON</td></tr>
-  <tr><td><small>✅</small> Generate working code in 6 languages (Node.js, Python, PHP, .NET, Go, Ruby)</td></tr>
-  <tr><td><small>✅</small> View request and response samples</td></tr>
-  <tr><td><small>✅</small> Toggle between Core and Ally endpoints (Ally coming soon)</td></tr>
-</table>
-
-<br />
-
+<div align="center">
 <table>
   <tr>
-    <td><b>Version supported:</b> v2.3</td>
+    <td><small>✅</small> Search across all endpoints</td>
+    <td><small>✅</small> Build sample payloads with valid JSON</td>
+  </tr>
+  <tr>
+    <td><small>✅</small> View request and response samples</td>
+    <td><small>✅</small> Toggle between Core and Ally endpoints (Ally coming soon)</td>
+  </tr>
+  <tr>
+    <td colspan="2"><small>✅</small> Generate working code in 6 languages (Node.js, Python, PHP, .NET, Go, Ruby)</td>
   </tr>
 </table>
-
 </div>
 
 <br />
 
-<!-- SECTION CARD -->
-<div style="border:1px solid rgba(125,125,125,0.35); border-radius:12px; padding:16px;">
+<p><b>Version supported:</b> v2.3</p>
+
+---
 
 ## 📘 Developer Docs
 
@@ -182,28 +161,27 @@ The Developer Docs provide clear, practical guides for every step of the integra
 
 Start fast with docs that walk you through:
 
-<table>
-  <tr><td><small>✅</small> Authentication and headers</td></tr>
-  <tr><td><small>✅</small> Payload structure and field-level details</td></tr>
-  <tr><td><small>✅</small> Core vs. Ally endpoint differences</td></tr>
-  <tr><td><small>✅</small> Error messages and troubleshooting tips</td></tr>
-  <tr><td><small>✅</small> Real-world use case examples</td></tr>
-</table>
-
-<br />
-
+<div align="center">
 <table>
   <tr>
-    <td>Built to support first-time builders and advanced dev teams alike.</td>
+    <td><small>✅</small> Authentication and headers</td>
+    <td><small>✅</small> Payload structure and field-level details</td>
+  </tr>
+  <tr>
+    <td><small>✅</small> Core vs. Ally endpoint differences</td>
+    <td><small>✅</small> Error messages and troubleshooting tips</td>
+  </tr>
+  <tr>
+    <td colspan="2"><small>✅</small> Real-world use case examples</td>
   </tr>
 </table>
-
 </div>
 
 <br />
 
-<!-- SECTION CARD -->
-<div style="border:1px solid rgba(125,125,125,0.35); border-radius:12px; padding:16px;">
+Built to support first-time builders and advanced dev teams alike.
+
+---
 
 ## 📬 Coming Soon
 
@@ -211,28 +189,22 @@ Start fast with docs that walk you through:
 
 Step-by-step walkthroughs of real-world payment workflows.
 
+<p><b>Each recipe will include:</b></p>
+
+<div align="center">
 <table>
   <tr>
-    <td><b>Each recipe will include:</b></td>
+    <td><small>✅</small> Narrative breakdown of the flow</td>
+    <td><small>✅</small> Links to required endpoints</td>
   </tr>
   <tr>
-    <td>
-      <table>
-        <tr><td><small>✅</small> Narrative breakdown of the flow</td></tr>
-        <tr><td><small>✅</small> Links to required endpoints</td></tr>
-        <tr><td><small>✅</small> Sample requests and responses</td></tr>
-        <tr><td><small>✅</small> Helpful context and developer notes</td></tr>
-      </table>
-    </td>
+    <td><small>✅</small> Sample requests and responses</td>
+    <td><small>✅</small> Helpful context and developer notes</td>
   </tr>
 </table>
-
 </div>
 
-<br />
-
-<!-- SECTION CARD -->
-<div style="border:1px solid rgba(125,125,125,0.35); border-radius:12px; padding:16px;">
+---
 
 ## 🤝 Connect with Us
 
@@ -240,23 +212,22 @@ Step-by-step walkthroughs of real-world payment workflows.
   <img src="./assets/linkedin-button.png" alt="LinkedIn" height="36" />
 </a>
 
-</div>
-
-<br />
-
-<!-- SECTION CARD -->
-<div style="border:1px solid rgba(125,125,125,0.35); border-radius:12px; padding:16px;">
+---
 
 ## 🛠 Contributing
 
 We welcome your feedback and suggestions.
 
+<div align="center">
 <table>
-  <tr><td><small>✅</small> Contribution guidelines coming soon</td></tr>
-  <tr><td><small>✅</small> Report issues directly in each repo</td></tr>
-  <tr><td><small>✅</small> Suggest features or improvements via Discussions</td></tr>
+  <tr>
+    <td><small>✅</small> Contribution guidelines coming soon</td>
+    <td><small>✅</small> Report issues directly in each repo</td>
+  </tr>
+  <tr>
+    <td colspan="2"><small>✅</small> Suggest features or improvements via Discussions</td>
+  </tr>
 </table>
-
 </div>
 
 <br />
