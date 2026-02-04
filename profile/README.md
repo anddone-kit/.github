@@ -22,7 +22,7 @@ AndDone is purpose-built to simplify insurance payments.
 
 ## 🧰 Overview
 
-AndDone is purpose-built to simplify insurance payments.  
+AndDone is built to simplify insurance payments.  
 Our APIs, SDKs, and sample apps help you move faster, reduce manual work, and support both pay-in-full and premium finance options all from one platform.
 
 We created this GitHub to help developers get started quickly, test with confidence, and integrate with clarity.
