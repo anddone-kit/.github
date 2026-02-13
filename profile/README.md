@@ -1,7 +1,7 @@
 <!-- HERO -->
 <div align="center">
 
-<img src="./assets/logo.png" alt="AndDone Logo" width="180" />
+<img src="./assets/Github_Profile Picture_Dark_4.png" alt="AndDone Logo" width="180" style="border-radius: 12px;" />
 
 <h2>Payments for Insurance made simple</h2>
 
