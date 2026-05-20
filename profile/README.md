@@ -155,7 +155,7 @@ The AndDone API Explorer helps you explore endpoints, build payloads, and genera
 
 ## 📘 Developer Docs
 
-<img src="./assets/dev_docs/Github_Dev-Docs_Graphic.gif" alt="Developer Docs Preview" width="100%" />
+<img src="./assets/dev_docs/Github---Dev-Docs-Graphic---V2---052026.gif" alt="Developer Docs Preview" width="100%" />
 
 The Developer Docs provide clear, practical guides for every step of the integration process.
 
@@ -183,13 +183,13 @@ Built to support first-time builders and advanced dev teams alike.
 
 ---
 
-## 📬 Coming Soon
+## 🍳 Recipes
 
-### 🍳 Recipes
+<img src="./assets/dev_docs/Github---Recipes-Graphic---V1---052026.gif" alt="Developer Docs Preview" width="100%" />
 
 Step-by-step walkthroughs of real-world payment workflows.
 
-<p><b>Each recipe will include:</b></p>
+<p><b>Each recipe includes:</b></p>
 
 <div align="center">
 <table>
