@@ -185,7 +185,7 @@ Built to support first-time builders and advanced dev teams alike.
 
 ## 🍳 Recipes
 
-<img src="./assets/dev_docs/Github---Recipes-Graphic---V1---052026.gif" alt="Developer Docs Preview" width="100%" />
+<img src="./assets/recipes/Github---Recipes-Graphic---V1---052026.gif" alt="Developer Docs Preview" width="100%" />
 
 Step-by-step walkthroughs of real-world payment workflows.
 
